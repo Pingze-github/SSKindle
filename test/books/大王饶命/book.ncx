@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+        "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+    </head>
+    <docTitle>
+        <text>大王饶命</text>
+    </docTitle>
+    <docTitle>
+        <text>会说话的肘子</text>
+    </docTitle>
+    <navMap>
+        
+            <navPoint id="ch1" playOrder="1">
+                <navLabel>
+                    <text>
+                        1、庙会
+                    </text>
+                </navLabel>
+                <content src="book.html#ch1" />
+            </navPoint>
+        
+            <navPoint id="ch2" playOrder="2">
+                <navLabel>
+                    <text>
+                        2、吃货
+                    </text>
+                </navLabel>
+                <content src="book.html#ch2" />
+            </navPoint>
+        
+            <navPoint id="ch3" playOrder="3">
+                <navLabel>
+                    <text>
+                        3、你摊上大事了！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch3" />
+            </navPoint>
+        
+            <navPoint id="ch4" playOrder="4">
+                <navLabel>
+                    <text>
+                        4、车祸与树
+                    </text>
+                </navLabel>
+                <content src="book.html#ch4" />
+            </navPoint>
+        
+            <navPoint id="ch5" playOrder="5">
+                <navLabel>
+                    <text>
+                        5、负面情绪
+                    </text>
+                </navLabel>
+                <content src="book.html#ch5" />
+            </navPoint>
+        
+            <navPoint id="ch6" playOrder="6">
+                <navLabel>
+                    <text>
+                        6、漂流瓶
+                    </text>
+                </navLabel>
+                <content src="book.html#ch6" />
+            </navPoint>
+        
+            <navPoint id="ch7" playOrder="7">
+                <navLabel>
+                    <text>
+                        7、幺蛾子
+                    </text>
+                </navLabel>
+                <content src="book.html#ch7" />
+            </navPoint>
+        
+            <navPoint id="ch8" playOrder="8">
+                <navLabel>
+                    <text>
+                        8、莫名其妙
+                    </text>
+                </navLabel>
+                <content src="book.html#ch8" />
+            </navPoint>
+        
+            <navPoint id="ch9" playOrder="9">
+                <navLabel>
+                    <text>
+                        9、碰瓷
+                    </text>
+                </navLabel>
+                <content src="book.html#ch9" />
+            </navPoint>
+        
+    </navMap>
+</ncx>

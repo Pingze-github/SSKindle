@@ -1,0 +1,1681 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+        "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+    </head>
+    <docTitle>
+        <text>刘大师的悠闲人生</text>
+    </docTitle>
+    <docTitle>
+        <text>大山黑水</text>
+    </docTitle>
+    <navMap>
+        
+            <navPoint id="ch1" playOrder="1">
+                <navLabel>
+                    <text>
+                        1、三金之城
+                    </text>
+                </navLabel>
+                <content src="book.html#ch1" />
+            </navPoint>
+        
+            <navPoint id="ch2" playOrder="2">
+                <navLabel>
+                    <text>
+                        2、九重楼
+                    </text>
+                </navLabel>
+                <content src="book.html#ch2" />
+            </navPoint>
+        
+            <navPoint id="ch3" playOrder="3">
+                <navLabel>
+                    <text>
+                        3、热心人？？【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch3" />
+            </navPoint>
+        
+            <navPoint id="ch4" playOrder="4">
+                <navLabel>
+                    <text>
+                        4、一席话改两个人【求收藏推荐】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch4" />
+            </navPoint>
+        
+            <navPoint id="ch5" playOrder="5">
+                <navLabel>
+                    <text>
+                        5、吉凶一千，前程八百【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch5" />
+            </navPoint>
+        
+            <navPoint id="ch6" playOrder="6">
+                <navLabel>
+                    <text>
+                        6、王定国夫妻的震撼【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch6" />
+            </navPoint>
+        
+            <navPoint id="ch7" playOrder="7">
+                <navLabel>
+                    <text>
+                        7、绝美的盲女【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch7" />
+            </navPoint>
+        
+            <navPoint id="ch8" playOrder="8">
+                <navLabel>
+                    <text>
+                        8、大师周一山【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch8" />
+            </navPoint>
+        
+            <navPoint id="ch9" playOrder="9">
+                <navLabel>
+                    <text>
+                        9、此去道路阳光，祝君功成名就
+                    </text>
+                </navLabel>
+                <content src="book.html#ch9" />
+            </navPoint>
+        
+            <navPoint id="ch10" playOrder="10">
+                <navLabel>
+                    <text>
+                        10、手串换电筒【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch10" />
+            </navPoint>
+        
+            <navPoint id="ch11" playOrder="11">
+                <navLabel>
+                    <text>
+                        11、抽奖了【求收藏推荐】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch11" />
+            </navPoint>
+        
+            <navPoint id="ch12" playOrder="12">
+                <navLabel>
+                    <text>
+                        12、林韵依【求收藏推荐票】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch12" />
+            </navPoint>
+        
+            <navPoint id="ch13" playOrder="13">
+                <navLabel>
+                    <text>
+                        13、一个字【求收藏推荐】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch13" />
+            </navPoint>
+        
+            <navPoint id="ch14" playOrder="14">
+                <navLabel>
+                    <text>
+                        14、各自机缘【求收藏推荐】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch14" />
+            </navPoint>
+        
+            <navPoint id="ch15" playOrder="15">
+                <navLabel>
+                    <text>
+                        15、关大小姐【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch15" />
+            </navPoint>
+        
+            <navPoint id="ch16" playOrder="16">
+                <navLabel>
+                    <text>
+                        16、有缘无缘【求打赏推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch16" />
+            </navPoint>
+        
+            <navPoint id="ch17" playOrder="17">
+                <navLabel>
+                    <text>
+                        17、有危险？【求打赏推荐票收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch17" />
+            </navPoint>
+        
+            <navPoint id="ch18" playOrder="18">
+                <navLabel>
+                    <text>
+                        18、别坐自己的车《求推荐收藏打赏》
+                    </text>
+                </navLabel>
+                <content src="book.html#ch18" />
+            </navPoint>
+        
+            <navPoint id="ch19" playOrder="19">
+                <navLabel>
+                    <text>
+                        19、猥琐老张头【求收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch19" />
+            </navPoint>
+        
+            <navPoint id="ch20" playOrder="20">
+                <navLabel>
+                    <text>
+                        20、极品胡丽
+                    </text>
+                </navLabel>
+                <content src="book.html#ch20" />
+            </navPoint>
+        
+            <navPoint id="ch21" playOrder="21">
+                <navLabel>
+                    <text>
+                        21、橄榄枝《求推荐票收藏》
+                    </text>
+                </navLabel>
+                <content src="book.html#ch21" />
+            </navPoint>
+        
+            <navPoint id="ch22" playOrder="22">
+                <navLabel>
+                    <text>
+                        22、红线！《求推荐票收藏》
+                    </text>
+                </navLabel>
+                <content src="book.html#ch22" />
+            </navPoint>
+        
+            <navPoint id="ch23" playOrder="23">
+                <navLabel>
+                    <text>
+                        23、水仙子寒烟【求收藏推荐票】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch23" />
+            </navPoint>
+        
+            <navPoint id="ch24" playOrder="24">
+                <navLabel>
+                    <text>
+                        24、天生女厨师【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch24" />
+            </navPoint>
+        
+            <navPoint id="ch25" playOrder="25">
+                <navLabel>
+                    <text>
+                        25、胡丽的际遇【求收藏推荐票】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch25" />
+            </navPoint>
+        
+            <navPoint id="ch26" playOrder="26">
+                <navLabel>
+                    <text>
+                        26、楚逸之【求推荐票收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch26" />
+            </navPoint>
+        
+            <navPoint id="ch27" playOrder="27">
+                <navLabel>
+                    <text>
+                        27、开口是缘，信疑在心【求推荐票收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch27" />
+            </navPoint>
+        
+            <navPoint id="ch28" playOrder="28">
+                <navLabel>
+                    <text>
+                        28、大雁楼【求收藏推荐票】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch28" />
+            </navPoint>
+        
+            <navPoint id="ch29" playOrder="29">
+                <navLabel>
+                    <text>
+                        29、前程可断吉凶能测寿元不可看
+                    </text>
+                </navLabel>
+                <content src="book.html#ch29" />
+            </navPoint>
+        
+            <navPoint id="ch30" playOrder="30">
+                <navLabel>
+                    <text>
+                        30、林韵依的钢琴声
+                    </text>
+                </navLabel>
+                <content src="book.html#ch30" />
+            </navPoint>
+        
+            <navPoint id="ch31" playOrder="31">
+                <navLabel>
+                    <text>
+                        31、一个吻
+                    </text>
+                </navLabel>
+                <content src="book.html#ch31" />
+            </navPoint>
+        
+            <navPoint id="ch32" playOrder="32">
+                <navLabel>
+                    <text>
+                        32、陈菊花的选择
+                    </text>
+                </navLabel>
+                <content src="book.html#ch32" />
+            </navPoint>
+        
+            <navPoint id="ch33" playOrder="33">
+                <navLabel>
+                    <text>
+                        33、演唱会前夕
+                    </text>
+                </navLabel>
+                <content src="book.html#ch33" />
+            </navPoint>
+        
+            <navPoint id="ch34" playOrder="34">
+                <navLabel>
+                    <text>
+                        34、水仙子，水仙子【为堂主尤沐加更】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch34" />
+            </navPoint>
+        
+            <navPoint id="ch35" playOrder="35">
+                <navLabel>
+                    <text>
+                        35、那一刹那的惊艳人间【为堂主尤沐加更】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch35" />
+            </navPoint>
+        
+            <navPoint id="ch36" playOrder="36">
+                <navLabel>
+                    <text>
+                        36、落幕！【求推荐票收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch36" />
+            </navPoint>
+        
+            <navPoint id="ch37" playOrder="37">
+                <navLabel>
+                    <text>
+                        37、浅水滩【求推荐求收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch37" />
+            </navPoint>
+        
+            <navPoint id="ch38" playOrder="38">
+                <navLabel>
+                    <text>
+                        38、下毒【求推荐收藏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch38" />
+            </navPoint>
+        
+            <navPoint id="ch39" playOrder="39">
+                <navLabel>
+                    <text>
+                        39、大师，你怎么玩乌龟的脑袋
+                    </text>
+                </navLabel>
+                <content src="book.html#ch39" />
+            </navPoint>
+        
+            <navPoint id="ch40" playOrder="40">
+                <navLabel>
+                    <text>
+                        40、这什么情况？（为本书掌门尤沐加更）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch40" />
+            </navPoint>
+        
+            <navPoint id="ch41" playOrder="41">
+                <navLabel>
+                    <text>
+                        41、准备躲避《为掌门尤沐加更》
+                    </text>
+                </navLabel>
+                <content src="book.html#ch41" />
+            </navPoint>
+        
+            <navPoint id="ch42" playOrder="42">
+                <navLabel>
+                    <text>
+                        42、天然山
+                    </text>
+                </navLabel>
+                <content src="book.html#ch42" />
+            </navPoint>
+        
+            <navPoint id="ch43" playOrder="43">
+                <navLabel>
+                    <text>
+                        43、有人自杀
+                    </text>
+                </navLabel>
+                <content src="book.html#ch43" />
+            </navPoint>
+        
+            <navPoint id="ch44" playOrder="44">
+                <navLabel>
+                    <text>
+                        44、倒霉蛋肖贵
+                    </text>
+                </navLabel>
+                <content src="book.html#ch44" />
+            </navPoint>
+        
+            <navPoint id="ch45" playOrder="45">
+                <navLabel>
+                    <text>
+                        45、变故（为本书盟主尤沐大兄弟加更）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch45" />
+            </navPoint>
+        
+            <navPoint id="ch46" playOrder="46">
+                <navLabel>
+                    <text>
+                        46、惊险（为盟主尤沐加更）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch46" />
+            </navPoint>
+        
+            <navPoint id="ch47" playOrder="47">
+                <navLabel>
+                    <text>
+                        47、银杏树
+                    </text>
+                </navLabel>
+                <content src="book.html#ch47" />
+            </navPoint>
+        
+            <navPoint id="ch48" playOrder="48">
+                <navLabel>
+                    <text>
+                        48、连环套
+                    </text>
+                </navLabel>
+                <content src="book.html#ch48" />
+            </navPoint>
+        
+            <navPoint id="ch49" playOrder="49">
+                <navLabel>
+                    <text>
+                        49、赵老三登门
+                    </text>
+                </navLabel>
+                <content src="book.html#ch49" />
+            </navPoint>
+        
+            <navPoint id="ch50" playOrder="50">
+                <navLabel>
+                    <text>
+                        50、刘棒槌
+                    </text>
+                </navLabel>
+                <content src="book.html#ch50" />
+            </navPoint>
+        
+            <navPoint id="ch51" playOrder="51">
+                <navLabel>
+                    <text>
+                        51、上门去吃饭
+                    </text>
+                </navLabel>
+                <content src="book.html#ch51" />
+            </navPoint>
+        
+            <navPoint id="ch52" playOrder="52">
+                <navLabel>
+                    <text>
+                        52、这尴尬的一顿饭
+                    </text>
+                </navLabel>
+                <content src="book.html#ch52" />
+            </navPoint>
+        
+            <navPoint id="ch53" playOrder="53">
+                <navLabel>
+                    <text>
+                        53、变化
+                    </text>
+                </navLabel>
+                <content src="book.html#ch53" />
+            </navPoint>
+        
+            <navPoint id="ch54" playOrder="54">
+                <navLabel>
+                    <text>
+                        54、给动物算命？？
+                    </text>
+                </navLabel>
+                <content src="book.html#ch54" />
+            </navPoint>
+        
+            <navPoint id="ch55" playOrder="55">
+                <navLabel>
+                    <text>
+                        55、论合格的流浪猫.....（求推荐票还有收藏）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch55" />
+            </navPoint>
+        
+            <navPoint id="ch56" playOrder="56">
+                <navLabel>
+                    <text>
+                        56、感激之灵的妙用！《求推理收藏》
+                    </text>
+                </navLabel>
+                <content src="book.html#ch56" />
+            </navPoint>
+        
+            <navPoint id="ch57" playOrder="57">
+                <navLabel>
+                    <text>
+                        57、胡汉四！（求推荐收藏）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch57" />
+            </navPoint>
+        
+            <navPoint id="ch58" playOrder="58">
+                <navLabel>
+                    <text>
+                        58、你也是狗东西？
+                    </text>
+                </navLabel>
+                <content src="book.html#ch58" />
+            </navPoint>
+        
+            <navPoint id="ch59" playOrder="59">
+                <navLabel>
+                    <text>
+                        59、宴会邀请
+                    </text>
+                </navLabel>
+                <content src="book.html#ch59" />
+            </navPoint>
+        
+            <navPoint id="ch60" playOrder="60">
+                <navLabel>
+                    <text>
+                        60、五城会首（为盟主尤沐加更）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch60" />
+            </navPoint>
+        
+            <navPoint id="ch61" playOrder="61">
+                <navLabel>
+                    <text>
+                        61、谋取九宫城（求推荐收藏）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch61" />
+            </navPoint>
+        
+            <navPoint id="ch62" playOrder="62">
+                <navLabel>
+                    <text>
+                        62、两人
+                    </text>
+                </navLabel>
+                <content src="book.html#ch62" />
+            </navPoint>
+        
+            <navPoint id="ch63" playOrder="63">
+                <navLabel>
+                    <text>
+                        63、请来神，留住神
+                    </text>
+                </navLabel>
+                <content src="book.html#ch63" />
+            </navPoint>
+        
+            <navPoint id="ch64" playOrder="64">
+                <navLabel>
+                    <text>
+                        64、事情麻烦了
+                    </text>
+                </navLabel>
+                <content src="book.html#ch64" />
+            </navPoint>
+        
+            <navPoint id="ch65" playOrder="65">
+                <navLabel>
+                    <text>
+                        65、一只狗的礼物
+                    </text>
+                </navLabel>
+                <content src="book.html#ch65" />
+            </navPoint>
+        
+            <navPoint id="ch66" playOrder="66">
+                <navLabel>
+                    <text>
+                        66、辩善恶
+                    </text>
+                </navLabel>
+                <content src="book.html#ch66" />
+            </navPoint>
+        
+            <navPoint id="ch67" playOrder="67">
+                <navLabel>
+                    <text>
+                        67、动物总动员
+                    </text>
+                </navLabel>
+                <content src="book.html#ch67" />
+            </navPoint>
+        
+            <navPoint id="ch68" playOrder="68">
+                <navLabel>
+                    <text>
+                        68、不高兴的小鹦鹉
+                    </text>
+                </navLabel>
+                <content src="book.html#ch68" />
+            </navPoint>
+        
+            <navPoint id="ch69" playOrder="69">
+                <navLabel>
+                    <text>
+                        69、张老三
+                    </text>
+                </navLabel>
+                <content src="book.html#ch69" />
+            </navPoint>
+        
+            <navPoint id="ch70" playOrder="70">
+                <navLabel>
+                    <text>
+                        70、坑......
+                    </text>
+                </navLabel>
+                <content src="book.html#ch70" />
+            </navPoint>
+        
+            <navPoint id="ch71" playOrder="71">
+                <navLabel>
+                    <text>
+                        71、谈价，玩心
+                    </text>
+                </navLabel>
+                <content src="book.html#ch71" />
+            </navPoint>
+        
+            <navPoint id="ch72" playOrder="72">
+                <navLabel>
+                    <text>
+                        72、陈菊花的美满人生(求推荐票收藏)
+                    </text>
+                </navLabel>
+                <content src="book.html#ch72" />
+            </navPoint>
+        
+            <navPoint id="ch73" playOrder="73">
+                <navLabel>
+                    <text>
+                        73、爱他就让他养猪吧(求收藏推荐票)
+                    </text>
+                </navLabel>
+                <content src="book.html#ch73" />
+            </navPoint>
+        
+            <navPoint id="ch74" playOrder="74">
+                <navLabel>
+                    <text>
+                        74、我是你四大爷!!（求推荐收藏）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch74" />
+            </navPoint>
+        
+            <navPoint id="ch75" playOrder="75">
+                <navLabel>
+                    <text>
+                        75、张老头不见了
+                    </text>
+                </navLabel>
+                <content src="book.html#ch75" />
+            </navPoint>
+        
+            <navPoint id="ch76" playOrder="76">
+                <navLabel>
+                    <text>
+                        76、涂福(求推荐票收藏)
+                    </text>
+                </navLabel>
+                <content src="book.html#ch76" />
+            </navPoint>
+        
+            <navPoint id="ch77" playOrder="77">
+                <navLabel>
+                    <text>
+                        77、陈爱国
+                    </text>
+                </navLabel>
+                <content src="book.html#ch77" />
+            </navPoint>
+        
+            <navPoint id="ch78" playOrder="78">
+                <navLabel>
+                    <text>
+                        78、三千红尘，万种人！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch78" />
+            </navPoint>
+        
+            <navPoint id="ch79" playOrder="79">
+                <navLabel>
+                    <text>
+                        79、音鸟
+                    </text>
+                </navLabel>
+                <content src="book.html#ch79" />
+            </navPoint>
+        
+            <navPoint id="ch80" playOrder="80">
+                <navLabel>
+                    <text>
+                        80、看看我的鸟
+                    </text>
+                </navLabel>
+                <content src="book.html#ch80" />
+            </navPoint>
+        
+            <navPoint id="ch81" playOrder="81">
+                <navLabel>
+                    <text>
+                        81、美其名曰的保护
+                    </text>
+                </navLabel>
+                <content src="book.html#ch81" />
+            </navPoint>
+        
+            <navPoint id="ch82" playOrder="82">
+                <navLabel>
+                    <text>
+                        82、不是世界容不下它,而是人容不下它
+                    </text>
+                </navLabel>
+                <content src="book.html#ch82" />
+            </navPoint>
+        
+            <navPoint id="ch83" playOrder="83">
+                <navLabel>
+                    <text>
+                        83、界谷
+                    </text>
+                </navLabel>
+                <content src="book.html#ch83" />
+            </navPoint>
+        
+            <navPoint id="ch84" playOrder="84">
+                <navLabel>
+                    <text>
+                        84、开端......
+                    </text>
+                </navLabel>
+                <content src="book.html#ch84" />
+            </navPoint>
+        
+            <navPoint id="ch85" playOrder="85">
+                <navLabel>
+                    <text>
+                        85、装死！《求推荐票收藏》
+                    </text>
+                </navLabel>
+                <content src="book.html#ch85" />
+            </navPoint>
+        
+            <navPoint id="ch86" playOrder="86">
+                <navLabel>
+                    <text>
+                        86、千年暗室一灯即明
+                    </text>
+                </navLabel>
+                <content src="book.html#ch86" />
+            </navPoint>
+        
+            <navPoint id="ch87" playOrder="87">
+                <navLabel>
+                    <text>
+                        87、双双来谢（为盟主尤沐加更）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch87" />
+            </navPoint>
+        
+            <navPoint id="ch88" playOrder="88">
+                <navLabel>
+                    <text>
+                        88、再临
+                    </text>
+                </navLabel>
+                <content src="book.html#ch88" />
+            </navPoint>
+        
+            <navPoint id="ch89" playOrder="89">
+                <navLabel>
+                    <text>
+                        89、林峰（求推荐票收藏）
+                    </text>
+                </navLabel>
+                <content src="book.html#ch89" />
+            </navPoint>
+        
+            <navPoint id="ch90" playOrder="90">
+                <navLabel>
+                    <text>
+                        90、听劝...
+                    </text>
+                </navLabel>
+                <content src="book.html#ch90" />
+            </navPoint>
+        
+            <navPoint id="ch91" playOrder="91">
+                <navLabel>
+                    <text>
+                        91、火爆的刘三金
+                    </text>
+                </navLabel>
+                <content src="book.html#ch91" />
+            </navPoint>
+        
+            <navPoint id="ch92" playOrder="92">
+                <navLabel>
+                    <text>
+                        92、高手?高守
+                    </text>
+                </navLabel>
+                <content src="book.html#ch92" />
+            </navPoint>
+        
+            <navPoint id="ch93" playOrder="93">
+                <navLabel>
+                    <text>
+                        93、你很帅
+                    </text>
+                </navLabel>
+                <content src="book.html#ch93" />
+            </navPoint>
+        
+            <navPoint id="ch94" playOrder="94">
+                <navLabel>
+                    <text>
+                        94、韵依做客
+                    </text>
+                </navLabel>
+                <content src="book.html#ch94" />
+            </navPoint>
+        
+            <navPoint id="ch95" playOrder="95">
+                <navLabel>
+                    <text>
+                        95、奇怪的女孩儿
+                    </text>
+                </navLabel>
+                <content src="book.html#ch95" />
+            </navPoint>
+        
+            <navPoint id="ch96" playOrder="96">
+                <navLabel>
+                    <text>
+                        96、568天
+                    </text>
+                </navLabel>
+                <content src="book.html#ch96" />
+            </navPoint>
+        
+            <navPoint id="ch97" playOrder="97">
+                <navLabel>
+                    <text>
+                        97、姻缘
+                    </text>
+                </navLabel>
+                <content src="book.html#ch97" />
+            </navPoint>
+        
+            <navPoint id="ch98" playOrder="98">
+                <navLabel>
+                    <text>
+                        98、失明
+                    </text>
+                </navLabel>
+                <content src="book.html#ch98" />
+            </navPoint>
+        
+            <navPoint id="ch99" playOrder="99">
+                <navLabel>
+                    <text>
+                        99、林峰的决定，肖贵的感激
+                    </text>
+                </navLabel>
+                <content src="book.html#ch99" />
+            </navPoint>
+        
+            <navPoint id="ch100" playOrder="100">
+                <navLabel>
+                    <text>
+                        100、鑫城换主[求推荐票收藏]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch100" />
+            </navPoint>
+        
+            <navPoint id="ch101" playOrder="101">
+                <navLabel>
+                    <text>
+                        101、裘国道
+                    </text>
+                </navLabel>
+                <content src="book.html#ch101" />
+            </navPoint>
+        
+            <navPoint id="ch102" playOrder="102">
+                <navLabel>
+                    <text>
+                        102、无心，经筒，秋蝉，雅琪，选择
+                    </text>
+                </navLabel>
+                <content src="book.html#ch102" />
+            </navPoint>
+        
+            <navPoint id="ch103" playOrder="103">
+                <navLabel>
+                    <text>
+                        103、复明
+                    </text>
+                </navLabel>
+                <content src="book.html#ch103" />
+            </navPoint>
+        
+            <navPoint id="ch104" playOrder="104">
+                <navLabel>
+                    <text>
+                        104、忠诚的小狗
+                    </text>
+                </navLabel>
+                <content src="book.html#ch104" />
+            </navPoint>
+        
+            <navPoint id="ch105" playOrder="105">
+                <navLabel>
+                    <text>
+                        105、楚逸之登门！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch105" />
+            </navPoint>
+        
+            <navPoint id="ch106" playOrder="106">
+                <navLabel>
+                    <text>
+                        106、该死的尤老头
+                    </text>
+                </navLabel>
+                <content src="book.html#ch106" />
+            </navPoint>
+        
+            <navPoint id="ch107" playOrder="107">
+                <navLabel>
+                    <text>
+                        107、真的不简单！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch107" />
+            </navPoint>
+        
+            <navPoint id="ch108" playOrder="108">
+                <navLabel>
+                    <text>
+                        108、湖边闲谈
+                    </text>
+                </navLabel>
+                <content src="book.html#ch108" />
+            </navPoint>
+        
+            <navPoint id="ch109" playOrder="109">
+                <navLabel>
+                    <text>
+                        109、三个坏人?[星期一求推荐票]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch109" />
+            </navPoint>
+        
+            <navPoint id="ch110" playOrder="110">
+                <navLabel>
+                    <text>
+                        110、三件事儿
+                    </text>
+                </navLabel>
+                <content src="book.html#ch110" />
+            </navPoint>
+        
+            <navPoint id="ch111" playOrder="111">
+                <navLabel>
+                    <text>
+                        111、关山
+                    </text>
+                </navLabel>
+                <content src="book.html#ch111" />
+            </navPoint>
+        
+            <navPoint id="ch112" playOrder="112">
+                <navLabel>
+                    <text>
+                        112、大师，你骗我
+                    </text>
+                </navLabel>
+                <content src="book.html#ch112" />
+            </navPoint>
+        
+            <navPoint id="ch113" playOrder="113">
+                <navLabel>
+                    <text>
+                        113、朱大山的幸福时光
+                    </text>
+                </navLabel>
+                <content src="book.html#ch113" />
+            </navPoint>
+        
+            <navPoint id="ch114" playOrder="114">
+                <navLabel>
+                    <text>
+                        114、救人
+                    </text>
+                </navLabel>
+                <content src="book.html#ch114" />
+            </navPoint>
+        
+            <navPoint id="ch115" playOrder="115">
+                <navLabel>
+                    <text>
+                        115、林韵依家的麻烦
+                    </text>
+                </navLabel>
+                <content src="book.html#ch115" />
+            </navPoint>
+        
+            <navPoint id="ch116" playOrder="116">
+                <navLabel>
+                    <text>
+                        116、这样的好亲戚
+                    </text>
+                </navLabel>
+                <content src="book.html#ch116" />
+            </navPoint>
+        
+            <navPoint id="ch117" playOrder="117">
+                <navLabel>
+                    <text>
+                        117、借钱
+                    </text>
+                </navLabel>
+                <content src="book.html#ch117" />
+            </navPoint>
+        
+            <navPoint id="ch118" playOrder="118">
+                <navLabel>
+                    <text>
+                        118、萧春寒的感激
+                    </text>
+                </navLabel>
+                <content src="book.html#ch118" />
+            </navPoint>
+        
+            <navPoint id="ch119" playOrder="119">
+                <navLabel>
+                    <text>
+                        119、黄泥丫头和大棒槌
+                    </text>
+                </navLabel>
+                <content src="book.html#ch119" />
+            </navPoint>
+        
+            <navPoint id="ch120" playOrder="120">
+                <navLabel>
+                    <text>
+                        120、离去......
+                    </text>
+                </navLabel>
+                <content src="book.html#ch120" />
+            </navPoint>
+        
+            <navPoint id="ch121" playOrder="121">
+                <navLabel>
+                    <text>
+                        121、生意兴隆
+                    </text>
+                </navLabel>
+                <content src="book.html#ch121" />
+            </navPoint>
+        
+            <navPoint id="ch122" playOrder="122">
+                <navLabel>
+                    <text>
+                        122、真的好忙
+                    </text>
+                </navLabel>
+                <content src="book.html#ch122" />
+            </navPoint>
+        
+            <navPoint id="ch123" playOrder="123">
+                <navLabel>
+                    <text>
+                        123、摇号？我又不是上车牌号！！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch123" />
+            </navPoint>
+        
+            <navPoint id="ch124" playOrder="124">
+                <navLabel>
+                    <text>
+                        124、真他娘的是抽号!!
+                    </text>
+                </navLabel>
+                <content src="book.html#ch124" />
+            </navPoint>
+        
+            <navPoint id="ch125" playOrder="125">
+                <navLabel>
+                    <text>
+                        125、王守义---香啊
+                    </text>
+                </navLabel>
+                <content src="book.html#ch125" />
+            </navPoint>
+        
+            <navPoint id="ch126" playOrder="126">
+                <navLabel>
+                    <text>
+                        126、麻烦!!!
+                    </text>
+                </navLabel>
+                <content src="book.html#ch126" />
+            </navPoint>
+        
+            <navPoint id="ch127" playOrder="127">
+                <navLabel>
+                    <text>
+                        127、萧春寒!!
+                    </text>
+                </navLabel>
+                <content src="book.html#ch127" />
+            </navPoint>
+        
+            <navPoint id="ch128" playOrder="128">
+                <navLabel>
+                    <text>
+                        128、无常道人
+                    </text>
+                </navLabel>
+                <content src="book.html#ch128" />
+            </navPoint>
+        
+            <navPoint id="ch129" playOrder="129">
+                <navLabel>
+                    <text>
+                        129、尤老头的无耻
+                    </text>
+                </navLabel>
+                <content src="book.html#ch129" />
+            </navPoint>
+        
+            <navPoint id="ch130" playOrder="130">
+                <navLabel>
+                    <text>
+                        130、吃饺子！！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch130" />
+            </navPoint>
+        
+            <navPoint id="ch131" playOrder="131">
+                <navLabel>
+                    <text>
+                        131、林父！！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch131" />
+            </navPoint>
+        
+            <navPoint id="ch132" playOrder="132">
+                <navLabel>
+                    <text>
+                        132、决定！！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch132" />
+            </navPoint>
+        
+            <navPoint id="ch133" playOrder="133">
+                <navLabel>
+                    <text>
+                        133、小友，我看你骨骼清奇！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch133" />
+            </navPoint>
+        
+            <navPoint id="ch134" playOrder="134">
+                <navLabel>
+                    <text>
+                        134、论道【一更】感谢沧桑的猪头一万打赏
+                    </text>
+                </navLabel>
+                <content src="book.html#ch134" />
+            </navPoint>
+        
+            <navPoint id="ch135" playOrder="135">
+                <navLabel>
+                    <text>
+                        135、花面郎君[二更，求首订！！]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch135" />
+            </navPoint>
+        
+            <navPoint id="ch136" playOrder="136">
+                <navLabel>
+                    <text>
+                        136、带着尤老头见无常道人![三更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch136" />
+            </navPoint>
+        
+            <navPoint id="ch137" playOrder="137">
+                <navLabel>
+                    <text>
+                        137、天机泄【四更求首订】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch137" />
+            </navPoint>
+        
+            <navPoint id="ch138" playOrder="138">
+                <navLabel>
+                    <text>
+                        138、林峰的机遇[五更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch138" />
+            </navPoint>
+        
+            <navPoint id="ch139" playOrder="139">
+                <navLabel>
+                    <text>
+                        139、树人晚会[六更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch139" />
+            </navPoint>
+        
+            <navPoint id="ch140" playOrder="140">
+                <navLabel>
+                    <text>
+                        140、一只倒霉老鼠[七更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch140" />
+            </navPoint>
+        
+            <navPoint id="ch141" playOrder="141">
+                <navLabel>
+                    <text>
+                        141、惊变[八更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch141" />
+            </navPoint>
+        
+            <navPoint id="ch142" playOrder="142">
+                <navLabel>
+                    <text>
+                        142、无常救人[九更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch142" />
+            </navPoint>
+        
+            <navPoint id="ch143" playOrder="143">
+                <navLabel>
+                    <text>
+                        143、殇.....【十更求首订】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch143" />
+            </navPoint>
+        
+            <navPoint id="ch144" playOrder="144">
+                <navLabel>
+                    <text>
+                        144、质问[十一更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch144" />
+            </navPoint>
+        
+            <navPoint id="ch145" playOrder="145">
+                <navLabel>
+                    <text>
+                        145、治双眼的药[十二更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch145" />
+            </navPoint>
+        
+            <navPoint id="ch146" playOrder="146">
+                <navLabel>
+                    <text>
+                        146、送礼的来了!!![十三更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch146" />
+            </navPoint>
+        
+            <navPoint id="ch147" playOrder="147">
+                <navLabel>
+                    <text>
+                        147、高守送礼[十四更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch147" />
+            </navPoint>
+        
+            <navPoint id="ch148" playOrder="148">
+                <navLabel>
+                    <text>
+                        148、郭笑虎再现[十五更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch148" />
+            </navPoint>
+        
+            <navPoint id="ch149" playOrder="149">
+                <navLabel>
+                    <text>
+                        149、危险[十六更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch149" />
+            </navPoint>
+        
+            <navPoint id="ch150" playOrder="150">
+                <navLabel>
+                    <text>
+                        150、团灭[十七更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch150" />
+            </navPoint>
+        
+            <navPoint id="ch151" playOrder="151">
+                <navLabel>
+                    <text>
+                        151、给杀手算卦[十八更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch151" />
+            </navPoint>
+        
+            <navPoint id="ch152" playOrder="152">
+                <navLabel>
+                    <text>
+                        152、一路走好[十九更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch152" />
+            </navPoint>
+        
+            <navPoint id="ch153" playOrder="153">
+                <navLabel>
+                    <text>
+                        153、要过年了[二十更求首订]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch153" />
+            </navPoint>
+        
+            <navPoint id="ch154" playOrder="154">
+                <navLabel>
+                    <text>
+                        155、 救命啊
+                    </text>
+                </navLabel>
+                <content src="book.html#ch154" />
+            </navPoint>
+        
+            <navPoint id="ch155" playOrder="155">
+                <navLabel>
+                    <text>
+                        154、大年三十的暧昧！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch155" />
+            </navPoint>
+        
+            <navPoint id="ch156" playOrder="156">
+                <navLabel>
+                    <text>
+                        156、 杀手救人
+                    </text>
+                </navLabel>
+                <content src="book.html#ch156" />
+            </navPoint>
+        
+            <navPoint id="ch157" playOrder="157">
+                <navLabel>
+                    <text>
+                        157、吃汤圆[第四更]
+                    </text>
+                </navLabel>
+                <content src="book.html#ch157" />
+            </navPoint>
+        
+            <navPoint id="ch158" playOrder="158">
+                <navLabel>
+                    <text>
+                        158、尤老头的厉害
+                    </text>
+                </navLabel>
+                <content src="book.html#ch158" />
+            </navPoint>
+        
+            <navPoint id="ch159" playOrder="159">
+                <navLabel>
+                    <text>
+                        159、暴发户涂山
+                    </text>
+                </navLabel>
+                <content src="book.html#ch159" />
+            </navPoint>
+        
+            <navPoint id="ch160" playOrder="160">
+                <navLabel>
+                    <text>
+                        160、曹大椎/曹美玲
+                    </text>
+                </navLabel>
+                <content src="book.html#ch160" />
+            </navPoint>
+        
+            <navPoint id="ch161" playOrder="161">
+                <navLabel>
+                    <text>
+                        161、拉着道士吃泡面
+                    </text>
+                </navLabel>
+                <content src="book.html#ch161" />
+            </navPoint>
+        
+            <navPoint id="ch162" playOrder="162">
+                <navLabel>
+                    <text>
+                        162、令人尊敬的张老人
+                    </text>
+                </navLabel>
+                <content src="book.html#ch162" />
+            </navPoint>
+        
+            <navPoint id="ch163" playOrder="163">
+                <navLabel>
+                    <text>
+                        163、蹭饭吃去
+                    </text>
+                </navLabel>
+                <content src="book.html#ch163" />
+            </navPoint>
+        
+            <navPoint id="ch164" playOrder="164">
+                <navLabel>
+                    <text>
+                        164、天香寺武院
+                    </text>
+                </navLabel>
+                <content src="book.html#ch164" />
+            </navPoint>
+        
+            <navPoint id="ch165" playOrder="165">
+                <navLabel>
+                    <text>
+                        165、我是人不是佛，心中有情
+                    </text>
+                </navLabel>
+                <content src="book.html#ch165" />
+            </navPoint>
+        
+            <navPoint id="ch166" playOrder="166">
+                <navLabel>
+                    <text>
+                        166、得救/逃亡
+                    </text>
+                </navLabel>
+                <content src="book.html#ch166" />
+            </navPoint>
+        
+            <navPoint id="ch167" playOrder="167">
+                <navLabel>
+                    <text>
+                        167、尤老头下棋【求订阅打赏】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch167" />
+            </navPoint>
+        
+            <navPoint id="ch168" playOrder="168">
+                <navLabel>
+                    <text>
+                        168、无耻的人，让人尊敬的人【求订阅】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch168" />
+            </navPoint>
+        
+            <navPoint id="ch169" playOrder="169">
+                <navLabel>
+                    <text>
+                        169、鑫城人的骄傲【求订阅】
+                    </text>
+                </navLabel>
+                <content src="book.html#ch169" />
+            </navPoint>
+        
+            <navPoint id="ch170" playOrder="170">
+                <navLabel>
+                    <text>
+                        170、这都是命
+                    </text>
+                </navLabel>
+                <content src="book.html#ch170" />
+            </navPoint>
+        
+            <navPoint id="ch171" playOrder="171">
+                <navLabel>
+                    <text>
+                        171、生机在哪儿？？
+                    </text>
+                </navLabel>
+                <content src="book.html#ch171" />
+            </navPoint>
+        
+            <navPoint id="ch172" playOrder="172">
+                <navLabel>
+                    <text>
+                        172、小和尚下山去化斋！！
+                    </text>
+                </navLabel>
+                <content src="book.html#ch172" />
+            </navPoint>
+        
+            <navPoint id="ch173" playOrder="173">
+                <navLabel>
+                    <text>
+                        173、怎么是他？
+                    </text>
+                </navLabel>
+                <content src="book.html#ch173" />
+            </navPoint>
+        
+            <navPoint id="ch174" playOrder="174">
+                <navLabel>
+                    <text>
+                        174、和尚种
+                    </text>
+                </navLabel>
+                <content src="book.html#ch174" />
+            </navPoint>
+        
+            <navPoint id="ch175" playOrder="175">
+                <navLabel>
+                    <text>
+                        175、大变
+                    </text>
+                </navLabel>
+                <content src="book.html#ch175" />
+            </navPoint>
+        
+            <navPoint id="ch176" playOrder="176">
+                <navLabel>
+                    <text>
+                        176、吸收
+                    </text>
+                </navLabel>
+                <content src="book.html#ch176" />
+            </navPoint>
+        
+            <navPoint id="ch177" playOrder="177">
+                <navLabel>
+                    <text>
+                        177、 该死的泡面
+                    </text>
+                </navLabel>
+                <content src="book.html#ch177" />
+            </navPoint>
+        
+            <navPoint id="ch178" playOrder="178">
+                <navLabel>
+                    <text>
+                        178、大师馆、医馆、饭馆、鸟店
+                    </text>
+                </navLabel>
+                <content src="book.html#ch178" />
+            </navPoint>
+        
+            <navPoint id="ch179" playOrder="179">
+                <navLabel>
+                    <text>
+                        179、送礼
+                    </text>
+                </navLabel>
+                <content src="book.html#ch179" />
+            </navPoint>
+        
+            <navPoint id="ch180" playOrder="180">
+                <navLabel>
+                    <text>
+                        180、王家村
+                    </text>
+                </navLabel>
+                <content src="book.html#ch180" />
+            </navPoint>
+        
+            <navPoint id="ch181" playOrder="181">
+                <navLabel>
+                    <text>
+                        181、奇怪女子
+                    </text>
+                </navLabel>
+                <content src="book.html#ch181" />
+            </navPoint>
+        
+            <navPoint id="ch182" playOrder="182">
+                <navLabel>
+                    <text>
+                        182、黑漆漆的两个煤球
+                    </text>
+                </navLabel>
+                <content src="book.html#ch182" />
+            </navPoint>
+        
+            <navPoint id="ch183" playOrder="183">
+                <navLabel>
+                    <text>
+                        183、街上捡来的
+                    </text>
+                </navLabel>
+                <content src="book.html#ch183" />
+            </navPoint>
+        
+            <navPoint id="ch184" playOrder="184">
+                <navLabel>
+                    <text>
+                        184、流氓鸟
+                    </text>
+                </navLabel>
+                <content src="book.html#ch184" />
+            </navPoint>
+        
+            <navPoint id="ch185" playOrder="185">
+                <navLabel>
+                    <text>
+                        185、惹火
+                    </text>
+                </navLabel>
+                <content src="book.html#ch185" />
+            </navPoint>
+        
+    </navMap>
+</ncx>
