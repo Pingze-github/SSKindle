@@ -8,7 +8,7 @@
             <dc:Copyrights>会说话的肘子</dc:Copyrights>
             <dc:Publisher>Ping</dc:Publisher>
             <x-metadata>
-                <EmbeddedCover></EmbeddedCover>
+                <EmbeddedCover>cover.jpg</EmbeddedCover>
             </x-metadata>
         </dc-metadata>
     </metadata>
@@ -19,6 +19,7 @@
         <item id="ncx" media-type="application/x-dtbncx+xml" href="book.ncx"/>
     </manifest>
     <spine toc="ncx">
+        <!--<itemref idref="cover-image"/>-->
         <itemref idref="toc"/>
         <itemref idref="content"/>
     </spine>
